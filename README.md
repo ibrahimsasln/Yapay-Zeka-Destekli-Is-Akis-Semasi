@@ -39,7 +39,7 @@ Küçük işletmeler, öğrenci toplulukları ve ekipler süreçlerini bilir ama
 - Süreç analizi öğrenen öğrenciler ve yeni başlayan iş analistleri
 
 ## Product Backlog URL
-
+https://github.com/users/ibrahimsasln/projects/1
 
 
 ---
