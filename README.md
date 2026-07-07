@@ -45,7 +45,9 @@ Küçük işletmeler, öğrenci toplulukları ve ekipler süreçlerini bilir ama
 ---
 
 # Sprint 1
-
+- Sprint Board screenshotları:
+![Ekran Görüntüsü 1](sprint1-b.png)
+![Ekran Görüntüsü](sprint1-b2.png)
 
 # Sprint 2
 
